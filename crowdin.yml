@@ -1,5 +1,5 @@
 files:
   - source: /resources/**/*.*
   translation_replace: {
-        en_us_ : ""
+        en_us_ : 
     translation: /resources/**/%file_name%_%locale_with_underscore%.%file_extension%
