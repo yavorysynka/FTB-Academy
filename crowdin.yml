@@ -1,5 +1,5 @@
 files:
   - source: /resources/**/en_us.properties
-    translation_replace: 
-         en_us_ : ""
+    translation_replace:
+      en_us_: ''
     translation: /resources/**/%file_name%_%locale_with_underscore%.%file_extension%
